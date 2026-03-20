@@ -6,6 +6,7 @@ This repository contains two distinct numerical analysis projects developed as p
 
 - **`global-root-finder/`** - A tool for finding multiple real roots of nonlinear functions.
 - **`trig-approximator-goertzel/`** - A tool for continuous trigonometric approximation with the implementation of Goertzel algorithm.
+- **`n-order-ode-rk4`** - A tool for solving linear ordinary differential equations with Runge-Kutta methods.
 
 ---
 
